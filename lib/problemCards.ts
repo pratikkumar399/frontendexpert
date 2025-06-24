@@ -1,6 +1,6 @@
 export const problemCards = [
     {
-        id: "accordian",
+        id: "accordion",
         title: "Accordion",
         description: "A simple accordion component",
         image: "",
